@@ -15,4 +15,9 @@
 商务合作VX：`Hunter_--_`
 
 或者扫一扫加我微信，请备注GitHub，谢谢。
-![wx](https://github.com/huaiyukeji/verification_code/blob/master/IMG_1691.JPG)
+<p align="center">
+	<img src="https://github.com/huaiyukeji/verification_code/blob/master/IMG_1691.JPG" alt="Sample"  width="140" height="250">
+	<p align="center">
+		<em>图片示例2</em>
+	</p>
+</p>
