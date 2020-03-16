@@ -15,4 +15,4 @@
 商务合作VX：`Hunter_--_`
 
 或者扫一扫加我微信，请备注GitHub，谢谢。
-![wx](https://ibb.co/ncWXJtR)
+![wx](https://github.com/huaiyukeji/verification_code/blob/master/IMG_1691.JPG)
