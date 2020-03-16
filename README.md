@@ -11,4 +11,7 @@
 2. 国内几家主流JS的破解流程。
 
 ## 联系方式
-欢迎技术交流：huaiyukeji@gmail.com
+欢迎技术交流：`huaiyukeji@gmail.com`
+商务合作VX：`Hunter_--_`
+或者扫一扫加我微信，请备注GitHub，谢谢。
+![](https://ibb.co/ncWXJtR)
