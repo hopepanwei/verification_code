@@ -4,7 +4,7 @@
 ## 待更新内容
 许多内容待整理。
 1. 国内某政府网站的JS破解流程以及极验验证码识别模型。
-- 极验验证码前端JS破解思路
+- [极验验证码前端JS破解思路](https://github.com/huaiyukeji/verification_code/blob/master/jiyan.md)
 
 - 模型训练数据
 - 模型代码
