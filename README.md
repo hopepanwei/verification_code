@@ -21,5 +21,6 @@
 
 或者扫一扫加我微信，请备注GitHub，谢谢。
 <p align="center">
-	<img src="https://github.com/huaiyukeji/verification_code/blob/master/IMG_1691.JPG" alt="Sample"  width="160" height="250">
+	<img src="https://github.com/huaiyukeji/verification_code/blob/master/IMG_1766.JPG" alt="Sample"  width="160" height="250">
 </p>
+
