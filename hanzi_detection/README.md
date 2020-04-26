@@ -4,6 +4,8 @@
 
 提示：backup/ 文件夹下缺少权重文件，不是我不想传，是大于100M的文件Git传不了。如果需要，微信跟我要吧。
 
+Git star 过500+，微信关注人数1000+会推出油管视频，谢谢支持！
+
 ### 使用方法
 
 1. 编译
@@ -46,10 +48,22 @@
 
    可以看到识别这个结果用了18.3秒，以及识别到四个结果。
 
-   因为目前是直接用CPU识别的，速度慢，用GPU速度会提升几百倍。
+   因为目前是直接用CPU识别的，速度慢，用GPU速度会提升几百倍。关于GPU的使用待稍后整理发出，也可加微信交流。
 
    贴一个效果图：
 
    ![predicted img](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/predictions.jpg)
+   
+   ### 关于环境搭建以及GPU训练方面文档稍后整理发出
+   
+   内容涉及：
+   
+   - Ubuntu18.04下的环境搭建
+     - cuda + cudnn + opencv
+     - Python3
+     - NVIDIA 显卡驱动
+   - GPU环境下模型的编译和使用
+   
+   GPU的使用在生产环境是必须的，速度提升了几百倍...
    
    
