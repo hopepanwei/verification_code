@@ -8,8 +8,10 @@
 
 1. 国内某政府网站的JS破解流程以及极验验证码识别模型。
 - [极验验证码前端JS破解思路](https://github.com/huaiyukeji/verification_code/blob/master/jiyan.md)
-
-- 模型训练数据
+- 点选验证码汉字识别模型
+  - [汉字定位（目标检测）](https://github.com/huaiyukeji/verification_code/tree/master/hanzi_detection)
+  - 汉字识别
+  - 汉字排序
 - 模型代码
 - JS破解流程
 

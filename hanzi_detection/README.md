@@ -50,4 +50,6 @@
 
    贴一个效果图：
 
-   ![predicted img]()
+   ![predicted img](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/predictions.jpg)
+   
+   
