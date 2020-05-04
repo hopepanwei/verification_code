@@ -20,7 +20,7 @@
 1. 国内某政府网站的JS破解流程以及极验验证码识别模型。
 - [极验验证码前端JS破解思路](https://github.com/huaiyukeji/verification_code/blob/master/jiyan.md)
 - 点选验证码汉字识别模型
-  - [Ubuntu环境安装](https://github.com/huaiyukeji/verification_code/tree/master/doc/Ubuntu18.04 install darknet yolo-v3|cuda|cudnn|opencv|anaconda.md)
+  - [Ubuntu环境安装](https://github.com/huaiyukeji/verification_code/blob/master/doc/Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
     - NVIDIA-SMI|CUDA|cuDNN|OpenCV|Anacoda
   - [汉字定位（目标检测）](https://github.com/huaiyukeji/verification_code/tree/master/hanzi_detection)
   - [汉字识别](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/readme_classify.md)
