@@ -1,0 +1,4 @@
+classes = 1
+train = data/jiyan_train.txt
+names = data/jiyan.names
+backup = backup/
