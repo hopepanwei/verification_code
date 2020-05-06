@@ -24,7 +24,8 @@
     - NVIDIA-SMI|CUDA|cuDNN|OpenCV|Anacoda
   - [汉字定位（目标检测）](https://github.com/huaiyukeji/verification_code/tree/master/hanzi_detection)
   - [汉字识别](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/readme_classify.md)
-  - 汉字排序
+  - 定位模型训练手册（含数据）
+  - 识别模型训练手册（含数据）
 - 模型代码
 - JS破解流程
 
