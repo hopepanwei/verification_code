@@ -44,7 +44,7 @@ aba5bec4daa6c11fdd684594778e7737.txt
 
 我们在标记训练数据的时候，给每个汉字的位置信息都标注出来，如下：
 
-![ab9a8dcdda85f1d8789909803374fbea](https://github.com/huaiyukeji/verification_code/tree/master/media/ab9a8dcdda85f1d8789909803374fbea.jpg)
+![ab9a8dcdda85f1d8789909803374fbea](https://github.com/huaiyukeji/verification_code/blob/master/media/ab9a8dcdda85f1d8789909803374fbea.jpg)
 
 以`太`字为例，坐标为：`x1y1,x2y2`，整个图片大小为：`width:344，height:384`
 
