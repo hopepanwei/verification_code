@@ -35,6 +35,9 @@
 
 ## 联系方式
 欢迎技术交流：`huaiyukeji@gmail.com`
+
+QQ群：1040784971
+
 商务合作VX：`Hunter_--_`
 
 或者扫一扫加我微信，请备注GitHub，谢谢。
