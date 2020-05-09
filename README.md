@@ -37,12 +37,12 @@
   这部分极验和易盾是通用的，数据集改改就好了。如果有数据集可以和我共享，我收集完统一标注然后共享出来。数据集完备后更新一波`一步识别`的模型出来。
 
 	- [x] [Ubuntu环境安装](https://github.com/huaiyukeji/verification_code/blob/master/doc/Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
-  	- NVIDIA-SMI|CUDA|cuDNN|OpenCV|Anacoda
+		- NVIDIA-SMI|CUDA|cuDNN|OpenCV|Anacoda
 	- [x] [汉字定位（目标检测）](https://github.com/huaiyukeji/verification_code/tree/master/hanzi_detection)
-- [x] [汉字识别](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/readme_classify.md)
+	- [x] [汉字识别](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/readme_classify.md)
 	- [x] [定位模型训练手册（含数据）](https://github.com/huaiyukeji/verification_code/blob/master/doc/detector_train_handbook.md)
 	- [ ] 识别模型训练手册（含数据）
-- [ ] 模型速度优化
+	- [ ] 模型速度优化
 
 ### 加速乐JS
 
