@@ -2,6 +2,8 @@
 
 此次更新了汉字目标检测的训练内容，从基础的环境编译开始。顺便说一下，GPU的环境是必要的，CPU训练极慢...
 
+关于最终模型识别效率：我生产环境是0.08S一张图，模型文件200多M，用的垃圾显卡。如果没有显卡，可以进行模型优化，如果有反应这个问题的童鞋，后续更新优化。
+
 [环境的安装和准备看这里](https://github.com/huaiyukeji/verification_code/blob/master/doc/Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
 
 ## 一、数据准备
@@ -137,7 +139,7 @@ NVCC=/usr/local/cuda-10.1/bin/nvcc 			# nvcc路径改为cuda的安装目录下�
 
 4. 训练：
 
-   `./darknet detector train data/detector.data cfg/detector.cfg darknet53.conv.74`
+   `./darknet detector train data/detector.data cfg/detector.cfg backup/darknet53.conv.74`
 
    训练完会在`backup`目录下生成`xxx_final.weights`文件
 
@@ -149,7 +151,7 @@ NVCC=/usr/local/cuda-10.1/bin/nvcc 			# nvcc路径改为cuda的安装目录下�
 
 6. 单张检测
 
-   `./darknet detector test cfg/detector.data cfg/detector.cfg xxx_final.weights`
+   `./darknet detector test cfg/detector.data cfg/detector.cfg backup/xxx_final.weights`
 
    然后输入要检测的图片地址，即可在根目录下生成`predictions.jpg`
 
