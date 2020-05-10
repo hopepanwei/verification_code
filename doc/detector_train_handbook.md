@@ -115,6 +115,8 @@ Type "help", "copyright", "credits" or "license" for more information.
   文件太大，请自行下载。
 
   [下载地址](https://pjreddie.com/media/files/darknet53.conv.74)
+  
+- 配置文件：`cfg/jiyan_detecter`
 
 
 
