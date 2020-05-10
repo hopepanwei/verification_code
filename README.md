@@ -41,7 +41,7 @@
 	- [x] [汉字定位（目标检测）](https://github.com/huaiyukeji/verification_code/tree/master/hanzi_detection)
 	- [x] [汉字识别](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/readme_classify.md)
 	- [x] [定位模型训练手册（含数据）](https://github.com/huaiyukeji/verification_code/blob/master/doc/detector_train_handbook.md)
-	- [ ] 识别模型训练手册（含数据）
+	- [x] [识别模型训练手册（含数据）](https://github.com/huaiyukeji/verification_code/blob/master/doc/classifier_train_handbook.md)
 	- [ ] 定位+识别的结合
 	- [ ] 模型速度优化
 
