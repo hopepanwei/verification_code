@@ -31,6 +31,8 @@
 
 训练数据包含了`生态旅游区`五个字，每个字`50`张图。
 
+![](https://github.com/huaiyukeji/verification_code/blob/master/media/0b7bbb3595309f7f9123704ef354a52d%E6%97%85_u65c5.jpg)
+
 接下来配置几个文件即可开始训练：
 
 - data文件：`data/hanzi_clas.data`
