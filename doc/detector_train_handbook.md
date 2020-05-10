@@ -116,7 +116,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
   [下载地址](https://pjreddie.com/media/files/darknet53.conv.74)
   
-- 配置文件：`cfg/jiyan_detecter`
+- 配置文件：`cfg/detecter.cfg`，具体配置是什么意思Google吧，有感兴趣的童鞋再留言更新。
 
 
 
