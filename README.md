@@ -28,9 +28,10 @@
 
 - [极验验证码前端JS破解思路](https://github.com/huaiyukeji/verification_code/blob/master/jiyan.md)
 
-	- [x] gt
-	- [x] challenge
-	- [ ] w
+  - [x] gt
+  - [x] challenge
+  - [ ] w
+  - [x] [获取gt和challenge的demo](https://github.com/huaiyukeji/verification_code/blob/master/doc/jiyan_gt_challenge_demo.ipynb)
 
 - 点选验证码汉字识别模型
 
