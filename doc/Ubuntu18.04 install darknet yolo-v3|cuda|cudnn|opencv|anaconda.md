@@ -345,3 +345,6 @@ OPENCV=1
 >
 > [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
 
+---
+
+**如果您看到了这里，请给我一个star:star:谢谢，如果有遗漏，请留言指正，感激！**
