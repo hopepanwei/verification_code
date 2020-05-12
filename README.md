@@ -26,23 +26,23 @@
 
 ### 极验的JS破解流程以及点选验证码识别模型
 
-- [极验验证码前端JS破解思路](https://github.com/huaiyukeji/verification_code/blob/master/jiyan.md)
+- [极验验证码前端JS破解思路](./doc/jiyan_gt_challenge.md)
 
   - [x] gt
   - [x] challenge
   - [ ] w
-  - [x] [获取gt和challenge的demo](https://github.com/huaiyukeji/verification_code/blob/master/doc/jiyan_gt_challenge_demo.ipynb)
+  - [x] [获取gt和challenge的demo](./doc/jiyan_gt_challenge_demo.ipynb)
 
 - 点选验证码汉字识别模型
 
   这部分极验和易盾是通用的，数据集改改就好了。如果有数据集可以和我共享，我收集完统一标注然后共享出来。数据集完备后更新一波`一步识别`的模型出来。
 
-	- [x] [Ubuntu环境安装](https://github.com/huaiyukeji/verification_code/blob/master/doc/Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
+	- [x] [Ubuntu环境安装](./doc/Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
 		- NVIDIA-SMI|CUDA|cuDNN|OpenCV|Anacoda
-	- [x] [汉字定位（目标检测）](https://github.com/huaiyukeji/verification_code/tree/master/hanzi_detection)
-	- [x] [汉字识别](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/readme_classify.md)
-	- [x] [定位模型训练手册（含数据）](https://github.com/huaiyukeji/verification_code/blob/master/doc/detector_train_handbook.md)
-	- [x] [识别模型训练手册（含数据）](https://github.com/huaiyukeji/verification_code/blob/master/doc/classifier_train_handbook.md)
+	- [x] [汉字定位（目标检测）](./hanzi_detection/README.md)
+	- [x] [汉字识别](./hanzi_detection/readme_classify.md)
+	- [x] [定位模型训练手册（含数据）](./doc/detector_train_handbook.md)
+	- [x] [识别模型训练手册（含数据）](./doc/classifier_train_handbook.md)
 	- [ ] 定位+识别的结合
 	- [ ] 模型速度优化
 
@@ -60,6 +60,6 @@ QQ群：1040784971
 
 或者扫一扫加我微信，请备注GitHub，谢谢。
 <p align="center">
-	<img src="https://github.com/huaiyukeji/verification_code/blob/master/IMG_1766.JPG" alt="Sample"  width="160" height="250">
+	<img src="./IMG_1766.JPG" alt="Sample"  width="160" height="250">
 </p>
 

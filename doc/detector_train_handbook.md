@@ -4,7 +4,7 @@
 
 关于最终模型识别效率：我生产环境是0.08S一张图，模型文件200多M，用的垃圾显卡。如果没有显卡，可以进行模型优化，如果有反应这个问题的童鞋，后续更新优化。
 
-[环境的安装和准备看这里](https://github.com/huaiyukeji/verification_code/blob/master/doc/Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
+[环境的安装和准备看这里](./Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
 
 ## 一、数据准备
 
@@ -25,7 +25,7 @@ aba5bec4daa6c11fdd684594778e7737.txt
 
 我们本次的检测目标只有一个是汉字`hanzi`（classes=1），简单来说目标就是输出一个图片中所有汉字的坐标。达到这种效果：
 
-![预测结果图片](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/predictions.jpg)
+![预测结果图片](../hanzi_detection/predictions.jpg)
 
 在构建训练集的时候，我们要同时准备`图片`和`坐标`两个文件。
 
@@ -46,7 +46,7 @@ aba5bec4daa6c11fdd684594778e7737.txt
 
 我们在标记训练数据的时候，给每个汉字的位置信息都标注出来，如下：
 
-![ab9a8dcdda85f1d8789909803374fbea](https://github.com/huaiyukeji/verification_code/blob/master/media/ab9a8dcdda85f1d8789909803374fbea.jpg)
+![ab9a8dcdda85f1d8789909803374fbea](../media/ab9a8dcdda85f1d8789909803374fbea.jpg)
 
 以`太`字为例，坐标为：`x1y1,x2y2`，整个图片大小为：`width:344，height:384`
 
@@ -157,7 +157,7 @@ NVCC=/usr/local/cuda-10.1/bin/nvcc 			# nvcc路径改为cuda的安装目录下�
 
    然后输入要检测的图片地址，即可在根目录下生成`predictions.jpg`
 
-   ![](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/predictions.jpg)
+   ![](../hanzi_detection/predictions.jpg)
 
 
 

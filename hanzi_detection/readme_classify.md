@@ -10,7 +10,7 @@
 
 
 
-![classify_test](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/classify_test.jpg)
+![classify_test](./classify_test.jpg)
 
 
 

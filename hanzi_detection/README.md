@@ -2,6 +2,8 @@
 
 模型我已经训练好了，直接可以用。使用的darknet，模型使用方法见官网。**有问题咨询或者需要训练数据的童鞋可以加首页的微信跟我要，Git传不了这么多文件。**
 
+> 现已更新QQ群，请看首页
+
 提示：backup/ 文件夹下缺少权重文件，不是我不想传，是大于100M的文件Git传不了。如果需要，微信跟我要吧。
 
 Git star 过500+，微信关注人数1000+会推出油管视频，谢谢支持！
@@ -52,7 +54,7 @@ Git star 过500+，微信关注人数1000+会推出油管视频，谢谢支持�
 
    贴一个效果图：
 
-   ![predicted img](https://github.com/huaiyukeji/verification_code/blob/master/hanzi_detection/predictions.jpg)
+   ![predicted img](./predictions.jpg)
    
    ### 关于环境搭建以及GPU训练方面文档稍后整理发出
    
@@ -65,5 +67,9 @@ Git star 过500+，微信关注人数1000+会推出油管视频，谢谢支持�
    - GPU环境下模型的编译和使用
    
    GPU的使用在生产环境是必须的，速度提升了几百倍...
+   
+   
+   
+   **如果您看到这里，请给我一个star:star:谢谢，如果有遗漏，请留言指正，感激！**
    
    

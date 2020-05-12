@@ -8,9 +8,9 @@
 
 ---
 
-[环境的安装和准备看这里](https://github.com/huaiyukeji/verification_code/blob/master/doc/Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
+[环境的安装和准备看这里](./Ubuntu18.04%20install%20darknet%20yolo-v3%7Ccuda%7Ccudnn%7Copencv%7Canaconda.md)
 
-[汉字检测定位模型训练手册看这里](https://github.com/huaiyukeji/verification_code/blob/master/doc/detector_train_handbook.md)
+[汉字检测定位模型训练手册看这里](./detector_train_handbook.md)
 
 ---
 
@@ -31,7 +31,7 @@
 
 训练数据包含了`生态旅游区`五个字，每个字`50`张图。
 
-![](https://github.com/huaiyukeji/verification_code/blob/master/media/0b7bbb3595309f7f9123704ef354a52d%E6%97%85_u65c5.jpg)
+![](../media/0b7bbb3595309f7f9123704ef354a52d%E6%97%85_u65c5.jpg)
 
 接下来配置几个文件即可开始训练：
 
