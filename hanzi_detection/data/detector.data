@@ -1,0 +1,4 @@
+classes = 1
+train = data/detector_train.txt
+names = data/detector.names
+backup = backup/
