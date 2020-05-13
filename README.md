@@ -26,12 +26,16 @@
 
 ### 极验的JS破解流程以及点选验证码识别模型
 
+极验分为三个部分，1. 破解了前端，获取validate参数；2. 文字类的验证码；3. 滑动验证码。验证码部分结合机器学习在本地打码。
+
 - [极验验证码前端JS破解思路](./doc/jiyan_gt_challenge.md)
 
-  - [x] gt
-  - [x] challenge
-  - [ ] w
+	极验js方面，获取validate就完结了。
+
+  - [x] gt、challenge
   - [x] [获取gt和challenge的demo](./doc/jiyan_gt_challenge_demo.ipynb)
+  - [ ] validate
+  - [ ] 获取validate的demo
 
 - 点选验证码汉字识别模型
 
@@ -47,9 +51,13 @@
   - [ ] Python中使用模型
   - [ ] 模型速度优化
 
-### 加速乐JS
+- 滑动3.0和机器学习
+
+  - [ ] 滑动轨迹
 
 ### 瑞数JS
+
+
 
 
 ## 联系方式
