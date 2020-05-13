@@ -1,5 +1,5 @@
 # verification_code
-验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码等主流验证码破解。已更新极验验证码、点选验证码、语序验证码、企业公示网采集心得。
+验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码等主流验证码破解。已更新极验验证码、点选验证码、语序验证码、企业公示网采集心得（代码demo）。
 
 
 
@@ -33,10 +33,9 @@
 	极验js方面，获取validate就完结了。
 
   - [x] gt、challenge
-  - [x] [获取gt和challenge的demo](./doc/jiyan_gt_challenge_demo.ipynb)
   - [ ] validate
-  - [ ] 获取validate的demo
-
+  - [x] [获取gt、challenge、validate，代码DEMO](./doc/jiyan_gt_challenge_demo.ipynb)
+  
 - 点选验证码汉字识别模型
 
   这部分极验和易盾是通用的，数据集改改就好了。如果有数据集可以和我共享，我收集完统一标注然后共享出来。数据集完备后更新一波`一步识别`的模型出来。
