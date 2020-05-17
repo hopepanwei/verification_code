@@ -46,10 +46,9 @@
   - [x] [汉字识别](./hanzi_detection/readme_classify.md)
   - [x] [定位模型训练手册（含数据）](./doc/detector_train_handbook.md)
   - [x] [识别模型训练手册（含数据）](./doc/classifier_train_handbook.md)
-  - [ ] 定位+识别的结合
-  - [ ] Python中使用模型
+  - [x] [Python中使用模型](./doc/在Python中使用模型.ipynb)
   - [ ] 模型速度优化
-
+  
 - 滑动3.0和机器学习
 
   - [ ] 滑动轨迹
