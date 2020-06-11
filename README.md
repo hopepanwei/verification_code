@@ -1,5 +1,5 @@
 # verification_code
-验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码等主流验证码破解。已更新极验验证码、点选验证码、语序验证码、企业公示网采集心得（代码demo）。
+验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码，梦幻西游验证码，汉字验证码通用识别等主流验证码模型。已更新极验验证码、点选验证码、语序验证码、企业公示网采集心得（代码demo）。
 
 
 
@@ -7,10 +7,24 @@
 
 
 
-
 ![](https://img.shields.io/badge/Python-%3E%3D3.6-orange?style=social) ![](https://img.shields.io/github/license/huaiyukeji/verification_code) 
 
 
+
+## 项目解决了哪些问题？
+
+<p align="center">
+	<img src="./media/geet_demo.jpg" alt="geet" width="172" height="192">
+	<img src="./media/yidun_demo.jpg" alt="yidun" width="240" height="120">
+	<img src="./media/0b7bbb3595309f7f9123704ef354a52d旅_u65c5.jpg" alt="geet">
+	<img src="./media/1590951689.png" alt="menghuan" >
+	<img src="./media/阿_1cde28c6abce11eab97c0242ac110002.jpg" alt="menghuan">
+</p>
+
+
+---
+
+### 本项目供大家一起学习交流，群里大佬们会免费一起训练模型
 
 ---
 
