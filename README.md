@@ -14,6 +14,7 @@
 ## 项目解决了哪些问题？
 
 <p align="center">
+	<img src="./media/e697bc6aa912eeb2610998833f209242.jpg" alt="geet" width="172" height="192">
 	<img src="./media/geet_demo.jpg" alt="geet" width="172" height="192">
 	<img src="./media/yidun_demo.jpg" alt="yidun" width="240" height="120">
 	<img src="./media/0b7bbb3595309f7f9123704ef354a52d旅_u65c5.jpg" alt="geet">
