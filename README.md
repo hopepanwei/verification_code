@@ -88,7 +88,7 @@ QQ群：1040784971
 
 商务合作VX：`Hunter_--_`
 
-或者扫一扫加我微信，请备注GitHub，谢谢。
+或者扫一扫加我微信，请备注GitHub，谢谢 。
 <p align="center">
 	<img src="./IMG_1766.JPG" alt="Sample"  width="160" height="250">
 </p>
