@@ -76,7 +76,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 最重要的数据集准备完了，然后再配置一下模型数量参数即可开始训练，有如下几个文件：
 
-- data文件：data/jiyan.data，例子：
+- data文件：data/detector.data，例子：
 
   ```data
   classes = 1											# 检测目标数量
@@ -116,7 +116,9 @@ Type "help", "copyright", "credits" or "license" for more information.
 
   [下载地址](https://pjreddie.com/media/files/darknet53.conv.74)
   
-- 配置文件：`cfg/detecter.cfg`，具体配置是什么意思Google吧，有感兴趣的童鞋再留言更新。
+- 配置文件：`cfg/detecter.cfg`
+
+  其中`max_batches = 1500`是训练的轮数，可以根据需要修改。
 
 
 
