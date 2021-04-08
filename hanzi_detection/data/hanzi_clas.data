@@ -1,4 +1,0 @@
-classes = 5
-train = data/hanzi_clas_train.txt
-labels = data/hanzi_clas.labels
-backup = backup/
